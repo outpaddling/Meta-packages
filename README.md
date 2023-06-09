@@ -92,6 +92,13 @@ This is a different approach from systems with a graphical installer,
 like Ubuntu Linux.  With FreeBSD, we first install the basic OS,
 then install the desktop of our choice afterward.
 
+If you don't have a space computer, you can also install FreeBSD under
+a Virtual Machine monitor, such as Hyper-V, Parallels, Qemu/UTM, VirtualBox,
+or VMWare.  I recommend VirtualBox, which is free, open-source, and
+portable to many host platforms.  FreeBSD has VirtualBox guest additions
+to add some conveniences such as mouse integration, screen resizing,
+file sharing, etc.
+
 ## Our Package Managers
 
 Most of the software on [https://github.com/outpaddling](https://github.com/outpaddling)
